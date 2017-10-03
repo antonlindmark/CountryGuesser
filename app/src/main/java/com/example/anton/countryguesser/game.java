@@ -20,6 +20,6 @@ public class game extends AppCompatActivity {
         else if(regionchoice==1)
             System.out.println("Start game with Africa");
         else if(regionchoice==2)
-            System.out.println("Start game with Asia");
+            System.out.println("Start game with TESTING");
     }
 }
